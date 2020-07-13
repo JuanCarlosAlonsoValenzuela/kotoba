@@ -14,37 +14,37 @@ export class AppComponent implements OnInit {
   public appPages = [
     {
       title: 'Home',
-      url: '/folder/Home',
+      url: '/home',
       icon: 'home'
     },
     {
       title: 'Beginner',
-      url: '/folder/N5',
+      url: '/level/n5',
       icon: 'alert'
     },
     {
       title: 'Basic',
-      url: '/folder/N4',
+      url: '/level/n4',
       icon: 'alert'
     },
     {
       title: 'Intermediate',
-      url: '/folder/N3',
+      url: '/level/n3',
       icon: 'alert'
     },
     {
       title: 'Advanced',
-      url: '/folder/N2',
+      url: '/level/n2',
       icon: 'alert'
     },
     {
       title: 'Expert',
-      url: '/folder/N1',
+      url: '/level/n1',
       icon: 'alert'
     },
     {
       title: 'Custom lists',
-      url: '/folder/Custom',
+      url: '/level/custom',
       icon: 'warning'
     }
   ];
