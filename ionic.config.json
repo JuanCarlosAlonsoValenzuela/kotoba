@@ -1,5 +1,7 @@
 {
   "name": "kotoba",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
